@@ -6,7 +6,7 @@ The interface.cfg from this folder should be used since it matches the configura
 
 
 Files:  
-Hello_World.xml -> PLC ladder diagram. Opens on PLCOpen Editor  
+Hello_World -> PLCOpen Editor project with PLC ladder diagram  
 hello_world.slx -> Simulink 2017 model  
 hello_world_2012b.slx -> Same model compatible with older versions of Simulink (doesn't support dashboard elements)  
 interface.cfg -> File to be used to configure SimLink. Must be in the same folder of the executable
